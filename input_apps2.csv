@@ -1,0 +1,6 @@
+Application ID,Application Name,Application Type,R-Pattern,OS,Criticality,User Base
+APP001,WebPortal,web,Rehost,Linux,High,External
+APP002,DataAPI,api,Refactor,Linux,Medium,Internal
+APP003,Analytics,batch,Replatform,Windows,High,Internal
+APP004,MobileBackend,mobile,Replatform,Linux,Medium,Field
+APP005,LegacyERP,data,Rewrite,Windows,High,Internal
